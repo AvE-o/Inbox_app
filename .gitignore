@@ -9,3 +9,5 @@
 # Ignore .env file
 .env
 
+# Astra
+secure-connect.zip
